@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/checkVat/services/vies/taxud/eu/europa/ec/CheckVatBindingStub.java=UTF-8
+encoding//src/checkVat/services/vies/taxud/eu/europa/ec/CheckVatPortType.java=UTF-8
+encoding//src/checkVat/services/vies/taxud/eu/europa/ec/CheckVatService.java=UTF-8
+encoding//src/checkVat/services/vies/taxud/eu/europa/ec/CheckVatServiceLocator.java=UTF-8
+encoding//src/types/checkVat/services/vies/taxud/eu/europa/ec/MatchCode.java=UTF-8
+encoding//src/types/checkVat/services/vies/taxud/eu/europa/ec/holders/MatchCodeHolder.java=UTF-8
